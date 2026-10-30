@@ -1,4 +1,4 @@
-const CACHE = "mi-inventario-v25";
+const CACHE = "mi-inventario-v26";
 const FILES = [
   "./",
   "./index.html",
